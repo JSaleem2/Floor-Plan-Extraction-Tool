@@ -1,4 +1,4 @@
-# Floor Plan Sheet Selector/Extractor
+# Floor Plan Sheet Extractor for In-Building RF Planning Tools
 
 A small Windows desktop tool that scans a multi-discipline architectural PDF
 drawing set (permit sets, construction documents) and finds the sheet(s)
