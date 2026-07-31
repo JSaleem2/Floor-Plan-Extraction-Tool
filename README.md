@@ -64,7 +64,7 @@ text.
 ## Example usage
 
 1. Launch the app and click **Select PDF File...**, then choose a permit set
-   PDF (e.g. `Luxe Building Type One Apartments_Permit Set.pdf`).
+   PDF (e.g. Apartments_Permit Set.pdf`).
 2. The status bar shows `Scanning...` while it reads every page. When it's
    done, something like:
 
