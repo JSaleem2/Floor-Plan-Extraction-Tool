@@ -1,4 +1,4 @@
-# Floor Plan Sheet Picker
+# Floor Plan Sheet Selector
 
 A small Windows desktop tool that scans a multi-discipline architectural PDF
 drawing set (permit sets, construction documents) and finds the sheet(s)
